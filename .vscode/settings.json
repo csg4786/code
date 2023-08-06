@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "numeric": "cpp",
+    "cmath": "cpp",
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "string_view": "cpp",
+    "ranges": "cpp",
+    "random": "cpp",
+    "cassert": "cpp",
+    "algorithm": "cpp",
+    "sstream": "cpp",
+    "regex": "cpp"
+  }
+}

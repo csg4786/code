@@ -1,0 +1,1 @@
+{"name":"Local: stack_sorting","url":"c:\\Users\\Chandrashekhar Gouda\\C++ Programs\\DSA\\Recursion\\stack_sorting.cpp","tests":[{"id":1674049084826,"input":"7\n2 3 7 6 4 5 9","output":"2 3 4 5 6 7 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Chandrashekhar Gouda\\C++ Programs\\DSA\\Recursion\\stack_sorting.cpp","group":"local","local":true}
